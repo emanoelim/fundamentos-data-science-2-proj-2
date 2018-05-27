@@ -6,6 +6,7 @@ Durante uma análise exploratória dos dados do último ano, foram levantadas du
 - Porque alguns meses tiveram um número muito maior de cancelamentos de voos?
 - Quais dias são melhores para viajar se eu não quiser sofrer com atrasos nos voos?
 Para a primeira pergunta, a análise conduzida neste projeto mostrou que os eventos climáticos que aconteceram no último ano tiveram um grande impacto no número de cancelamento de voos.
+
 Para a segunda pergunta foi possível descobrir que os melhores dias para viajar sem se preocupar com os atrasos são os sábados, exceto aqueles que procedem feriados importantes, entre outras descobertas.
 Estas conclusões são apresentadas detalhadamente por meio de histórias no Tableau e estão acessíveis pelas seguintes urls:
 
