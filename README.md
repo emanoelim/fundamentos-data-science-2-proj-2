@@ -1,4 +1,4 @@
-# PROJETO 2 - Nanodegree Fundamentos de Data Science ||: Analisando dados de voos nos EUA
+# PROJETO 2 - Nanodegree Fundamentos de Data Science II: Analisando dados de voos nos EUA
 
 Este projeto utiliza um banco de dados fornecido pelo United States Department of Transportation (https://www.transtats.bts.gov/DL_SelectFields.asp), que fornece  dados de voos nos EUA desde 1987, com informações como atrasos e cancelamentos de voos.
 
